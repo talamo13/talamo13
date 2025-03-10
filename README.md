@@ -10,6 +10,6 @@ I mainly work with **Python, C++, and Java**, and I’m always exploring new tec
 
 Always open to new challenges and collaborations—let’s build something cool! 🚀  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talamo13&layout=compact)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=talamo13&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talamo13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
